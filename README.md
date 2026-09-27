@@ -54,7 +54,12 @@
 <br />
 
 ---
+
 ### 📊 GitHub Activity & Metrics
+
+<details>
+  <summary><b>📈 Click to view GitHub stats, top languages & contribution streak</b></summary>
+  <br/>
 
 <p align="center">
   <picture>
@@ -76,6 +81,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
   </picture>
 </p>
+
+</details>
 
 ---
 
