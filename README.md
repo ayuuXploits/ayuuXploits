@@ -1,16 +1,183 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,22&height=180&section=header&text=ayuuXploits&fontSize=65&fontAlignY=36&desc=Creative%20Technologist%20%E2%80%A2%20Hardware%20Hacker%20%E2%80%A2%20AI%20Connectomics&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+</p>
 
-<!--
-**ayuuXploits/ayuuXploits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
+<h3 align="center">Creative Technologist • Embedded Systems & IoT • AI & Connectomics</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ayuuXploits">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vcenter=true&width=550&lines=Building+real-time+3D+systems;Hardware+hacking+%26+ESP32+Wi-Fi+sniffing;Connectome+GNNs+%26+Bio-AI+experiments;Interactive+computer+vision+%26+robotics" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:ayushkumargcg@gmail.com"><img src="https://img.shields.io/badge/Email-ayushkumargcg%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ayuuxploits/"><img src="https://img.shields.io/badge/LinkedIn-Ayush_Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ayuuXploits"><img src="https://img.shields.io/badge/GitHub-ayuuXploits-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ayuuXploits&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+---
+
+> [!NOTE]
+> 🚀 **About Me:** Computer Applications graduate driven by curiosity at the intersection of **hardware hacking**, **biological brain connectomics**, and **interactive visual computing**. Whether it's passively sniffing Wi-Fi packets on bare silicon, training graph neural networks on fruit fly connectomes, or building touchless vision interfaces, I build projects that bridge the physical and algorithmic worlds.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding" width="100%" />
+</p>
+
+<br />
+
+### 🛠️ Tech Stack & Tooling
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,react,html,css,arduino,linux,git,github,docker,fastapi,tailwind" alt="Skills" />
+  </a>
+</p>
+
+<details>
+  <summary><b>🔍 Detailed Breakdown of Technologies & Domains</b></summary>
+  <br/>
+
+| Domain | Technologies & Frameworks |
+|---|---|
+| **Core Languages** | Python, C/C++, Modern JavaScript (ES6+), TypeScript, HTML5/CSS3 |
+| **Hardware & IoT** | ESP32, ESP8266 (Wemos D1), Arduino, 802.11 Promiscuous Sniffing, I2C/SPI Displays, Sensors |
+| **AI & Machine Learning** | Graph Neural Networks (GNN), PyTorch Geometric, NLP, Connectomics, Stockfish Engine |
+| **Vision & Graphics** | MediaPipe, OpenCV, Three.js, WebGL, Browser Canvas API, Real-time ASCII Streaming |
+| **Tools & Platforms** | Git, GitHub Actions, Linux, Docker, Render, PlatformIO |
+
+</details>
+
+<br />
+
+---
+
+### 🌟 Featured Inventions & Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <a href="https://github.com/ayuuXploits/fruitfly-chess">fruitfly-chess</a></h3>
+      <p align="center">
+        <a href="https://fruitfly-chess.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Live Demo" /></a>
+        <img src="https://img.shields.io/badge/Stack-Python_•_GNN_•_Three.js-blue?style=flat-square" alt="Tech" />
+      </p>
+      <p>Play 3D chess against a fruit fly brain model powered by a biological connectome Graph Neural Network coupled with the Stockfish engine.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 <a href="https://github.com/ayuuXploits/GhostNet_Sniffer">GhostNet_Sniffer</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Hardware-ESP32_WiFi_SoC-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+        <img src="https://img.shields.io/badge/Stack-C++_•_Promiscuous_Sniffer-orange?style=flat-square" alt="C++" />
+      </p>
+      <p>No camera. No visual feedback. Just pure Wi‑Fi sniffing. Passively detects ambient devices, estimates distance, and maps physical space in real time.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/ayuuXploits/DIY-emo-bot">DIY-emo-bot</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Hardware-ESP8266_•_SSD1306_OLED-4E86E4?style=flat-square" alt="Hardware" />
+        <img src="https://img.shields.io/badge/Category-Robotics_Companion-purple?style=flat-square" alt="Robotics" />
+      </p>
+      <p>A palm-sized interactive desk companion robot built on a Wemos D1 Mini (ESP8266) with expressive animations on a 0.96" OLED screen.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🪄 <a href="https://github.com/ayuuXploits/air-canvas">air-canvas</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Domain-Computer_Vision-34A853?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Stack-MediaPipe_•_JS-yellow?style=flat-square" alt="JS" />
+      </p>
+      <p>Draw touchless in the air with bare hands in front of a webcam — index finger sketches, pinch moves objects, and left-hand gestures swap colors.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 <a href="https://github.com/ayuuXploits/study-buddy">study-buddy</a></h3>
+      <p align="center">
+        <a href="https://study-buddy-3xji.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Live Demo" /></a>
+        <img src="https://img.shields.io/badge/Stack-Python_•_AI_Tutor-blueviolet?style=flat-square" alt="AI" />
+      </p>
+      <p>AI-powered study companion that explains complex concepts, summarizes study notes, generates interactive flashcards/quizzes, and tracks study streaks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 <a href="https://github.com/ayuuXploits/artscii-cam">artscii-cam</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Category-Creative_Coding-black?style=flat-square" alt="Creative Coding" />
+        <img src="https://img.shields.io/badge/Stack-JavaScript_•_Canvas_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      </p>
+      <p>High-performance real-time ASCII art camera and image converter running entirely client-side in the web browser.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayuuXploits&show_icons=true&hide_border=true&layout=compactdark&hide_rank=true&include_all_commits=true&theme=tokyonight&bg_color=00000000">
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=ayuuXploits&show_icons=true&hide_border=true&layout=compact&hide_rank=true&include_all_commits=true&theme=default&bg_color=00000000" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuuXploits&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000">
+    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuuXploits&layout=compact&hide_border=true&langs_count=8&theme=default&bg_color=00000000" alt="Top Languages" />
+  </picture>
+</p>
+
+<br clear="both"/>
+<br />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=tokyonight&hide_border=true&background=00000000">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
+  </picture>
+</p>
+
+---
+
+### ⚡ Live Feed
+
+#### 👷 Recent Contributions
+- [ayuuXploits/fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - Play 3D chess against a fruit fly powered by a biological brain connectome GNN & Stockfish.
+- [ayuuXploits/GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi sniffing with ESP32 to detect ambient devices and estimate distance in real time.
+- [ayuuXploits/study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study companion with intelligent summaries, quizzes, and streak tracking.
+- [ayuuXploits/artscii-cam](https://github.com/ayuuXploits/artscii-cam) - Real-time ASCII art camera and image converter running in browser.
+- [ayuuXploits/DIY-emo-bot](https://github.com/ayuuXploits/DIY-emo-bot) - Interactive desk companion robot on Wemos D1 Mini (ESP8266) with OLED display.
+
+#### 🔭 Recent Repositories
+- [fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - 3D chess vs biological connectome GNN & Stockfish
+- [GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi radar & tracking with ESP32
+- [study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study platform
+- [air-canvas](https://github.com/ayuuXploits/air-canvas) - Bare-hand touchless webcam drawing tool
+
+---
+
+### 🤝 Connect & Collaborate
+
+I'm always open to discussing hardware experiments, novel AI architectures, open-source projects, and collaborative opportunities!
+
+<p align="center">
+  <a href="mailto:ayushkumargcg@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-ayushkumargcg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ayuuxploits/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Ayush_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ayuuXploits">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-@ayuuXploits-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world."</i>
+</p>
