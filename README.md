@@ -76,9 +76,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
   </picture>
 </p>
+
 ---
 
 ### ⚡ Live Feed
+
+<details>
+  <summary><b>📜 Click to view live recent contributions & activity feed</b></summary>
+  <br/>
 
 #### 👷 Recent Contributions
 - [ayuuXploits/fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - Play 3D chess against a fruit fly powered by a biological brain connectome GNN & Stockfish.
@@ -92,6 +97,8 @@
 - [GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi radar & tracking with ESP32
 - [study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study platform
 - [air-canvas](https://github.com/ayuuXploits/air-canvas) - Bare-hand touchless webcam drawing tool
+
+</details>
 
 ---
 
