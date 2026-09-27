@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,22&height=180&section=header&text=ayuuXploits&fontSize=65&fontAlignY=36&desc=Creative%20Technologist%20%E2%80%A2%20Hardware%20Hacker%20%E2%80%A2%20AI%20Connectomics&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=ayuuXploits&fontSize=60&fontAlignY=38&desc=Hacking%20silicon,%20exploring%20brains%20and%20bending%20pixels&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
-<h3 align="center">Creative Technologist • Embedded Systems & IoT • AI & Connectomics</h3>
-
+<h3 align="center">Tinkering with embedded circuits, bio-inspired AI, and interactive 3D</h3>
 <p align="center">
   <a href="https://github.com/ayuuXploits">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vcenter=true&width=550&lines=Building+real-time+3D+systems;Hardware+hacking+%26+ESP32+Wi-Fi+sniffing;Connectome+GNNs+%26+Bio-AI+experiments;Interactive+computer+vision+%26+robotics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22C55E&center=true&vcenter=true&width=620&lines=Building+3D+chess+powered+by+fruit+fly+connectomes;Sniffing+ambient+Wi-Fi+packets+with+bare+ESP32;Crafting+expressive+robot+companions+on+tiny+chips;Painting+in+mid-air+with+bare-hand+computer+vision" alt="Typing SVG" />
   </a>
 </p>
 
