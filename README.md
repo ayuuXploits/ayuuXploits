@@ -118,31 +118,6 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayuuXploits&show_icons=true&hide_border=true&layout=compactdark&hide_rank=true&include_all_commits=true&theme=tokyonight&bg_color=00000000">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=ayuuXploits&show_icons=true&hide_border=true&layout=compact&hide_rank=true&include_all_commits=true&theme=default&bg_color=00000000" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuuXploits&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000">
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuuXploits&layout=compact&hide_border=true&langs_count=8&theme=default&bg_color=00000000" alt="Top Languages" />
-  </picture>
-</p>
-
-<br clear="both"/>
-<br />
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=tokyonight&hide_border=true&background=00000000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
-  </picture>
-</p>
-
----
-
 ### ⚡ Live Feed
 
 #### 👷 Recent Contributions
