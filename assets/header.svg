@@ -54,10 +54,6 @@
       0% { transform: translateX(-100%); }
       60%, 100% { transform: translateX(100%); }
     }
-    @keyframes beacon-blink {
-      0%, 100% { opacity: 1; filter: drop-shadow(0 0 5px #10b981); }
-      50% { opacity: 0.3; filter: none; }
-    }
     .orb-left {
       transform-origin: 220px 110px;
       animation: pulse-left 6.5s ease-in-out infinite;
@@ -68,9 +64,6 @@
     }
     .beam {
       animation: sweep-beam 5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
-    }
-    .beacon {
-      animation: beacon-blink 2s ease-in-out infinite;
     }
     .title-text {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -86,13 +79,6 @@
       font-size: 17px;
       letter-spacing: 0.5px;
       fill: #94a3b8;
-    }
-    .badge-text {
-      font-family: 'SF Mono', Monaco, 'Fira Code', 'Roboto Mono', monospace;
-      font-weight: 600;
-      font-size: 11px;
-      letter-spacing: 1.5px;
-      fill: #38bdf8;
     }
   </style>
 
@@ -117,7 +103,6 @@
 
   <!-- Sleek 1px Gradient Glass Border -->
   <rect x="0.5" y="0.5" width="899" height="239" rx="13.5" fill="none" stroke="url(#border-grad)" stroke-width="1.2" />
-
 
   <!-- Main Heading: ayuuXploits -->
   <text class="title-text" x="450" y="125" text-anchor="middle">ayuuXploits</text>
