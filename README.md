@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayuuXploits/ayuuXploits/main/assets/header.svg" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,22&height=180&section=header&text=ayuuXploits&fontSize=65&fontAlignY=36&desc=Creative%20Technologist%20%E2%80%A2%20Hardware%20Hacker%20%E2%80%A2%20AI%20Connectomics&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
-<h3 align="center">Tinkering with embedded circuits, bio-inspired AI, and interactive 3D</h3>
+<h3 align="center">Creative Technologist • Embedded Systems & IoT • AI & Connectomics</h3>
+
 <p align="center">
   <a href="https://github.com/ayuuXploits">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22C55E&center=true&vcenter=true&width=620&lines=Building+3D+chess+powered+by+fruit+fly+connectomes;Sniffing+ambient+Wi-Fi+packets+with+bare+ESP32;Crafting+expressive+robot+companions+on+tiny+chips;Painting+in+mid-air+with+bare-hand+computer+vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vcenter=true&width=550&lines=Building+real-time+3D+systems;Hardware+hacking+%26+ESP32+Wi-Fi+sniffing;Connectome+GNNs+%26+Bio-AI+experiments;Interactive+computer+vision+%26+robotics" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,12 +54,7 @@
 <br />
 
 ---
-
 ### 📊 GitHub Activity & Metrics
-
-<details>
-  <summary><b>📈 Click to view GitHub stats, top languages & contribution streak</b></summary>
-  <br/>
 
 <p align="center">
   <picture>
@@ -80,16 +76,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
   </picture>
 </p>
-
-</details>
-
 ---
 
 ### ⚡ Live Feed
-
-<details>
-  <summary><b>📜 Click to view live recent contributions & activity feed</b></summary>
-  <br/>
 
 #### 👷 Recent Contributions
 - [ayuuXploits/fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - Play 3D chess against a fruit fly powered by a biological brain connectome GNN & Stockfish.
@@ -103,8 +92,6 @@
 - [GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi radar & tracking with ESP32
 - [study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study platform
 - [air-canvas](https://github.com/ayuuXploits/air-canvas) - Bare-hand touchless webcam drawing tool
-
-</details>
 
 ---
 
