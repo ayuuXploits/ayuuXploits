@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,22&height=180&section=header&text=ayuuXploits&fontSize=65&fontAlignY=36&desc=Creative%20Technologist%20%E2%80%A2%20Hardware%20Hacker%20%E2%80%A2%20AI%20Connectomics&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src=main/assets/header.svg" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
