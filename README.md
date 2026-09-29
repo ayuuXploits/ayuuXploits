@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayuuXploits/ayuuXploits/main/assets/header.svg" width="100%" alt="Header Banner" />
+</p>
 <h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
 <h3 align="center">Creative Technologist • Embedded Systems & IoT • AI & Connectomics</h3>
 
@@ -91,7 +93,6 @@
 - [air-canvas](https://github.com/ayuuXploits/air-canvas) - Bare-hand touchless webcam drawing tool
 
 ---
-
 
 ### 🤝 Connect & Collaborate
 
