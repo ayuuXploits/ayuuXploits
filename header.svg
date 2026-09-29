@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="100%">
+  <defs>
+    <!-- Warm Ambient Glow Filters -->
+    <filter id="lamp-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="60" result="blur" />
+    </filter>
+    <filter id="gold-shimmer" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Deep Warm Charcoal Canvas Gradient -->
+    <linearGradient id="academia-canvas" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0c10" />
+      <stop offset="50%" stop-color="#141318" />
+      <stop offset="100%" stop-color="#0a0a0e" />
+    </linearGradient>
+
+    <!-- Antique Gold Foil Typography Gradient -->
+    <linearGradient id="gold-leaf" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#eedc9a" />
+      <stop offset="25%" stop-color="#d4af37" />
+      <stop offset="50%" stop-color="#fdf3b8" />
+      <stop offset="75%" stop-color="#c59b27" />
+      <stop offset="100%" stop-color="#f3e5ab" />
+    </linearGradient>
+
+    <!-- Gold Border Hairline Gradient -->
+    <linearGradient id="gold-rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4af37" stop-opacity="0" />
+      <stop offset="20%" stop-color="#d4af37" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#fef08a" stop-opacity="1" />
+      <stop offset="80%" stop-color="#d4af37" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#d4af37" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Faint Scholar Dot Mesh -->
+    <pattern id="parchment-mesh" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#d4af37" opacity="0.12" />
+    </pattern>
+
+    <clipPath id="frame-clip">
+      <rect width="1000" height="280" rx="12" />
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes candle-flicker-1 {
+      0%, 100% { opacity: 0.35; transform: scale(1) translate(0px, 0px); }
+      50% { opacity: 0.55; transform: scale(1.12) translate(15px, -10px); }
+    }
+    @keyframes candle-flicker-2 {
+      0%, 100% { opacity: 0.30; transform: scale(1) translate(0px, 0px); }
+      50% { opacity: 0.50; transform: scale(1.15) translate(-20px, 12px); }
+    }
+    @keyframes gold-drift {
+      0%, 100% { filter: drop-shadow(0 0 15px rgba(212, 175, 55, 0.3)); }
+      50% { filter: drop-shadow(0 0 25px rgba(254, 240, 138, 0.55)); }
+    }
+    .candle-1 {
+      transform-origin: 220px 140px;
+      animation: candle-flicker-1 7s ease-in-out infinite;
+    }
+    .candle-2 {
+      transform-origin: 780px 140px;
+      animation: candle-flicker-2 8s ease-in-out infinite;
+    }
+    .gold-title {
+      font-family: 'Cinzel', 'Playfair Display', 'EB Garamond', 'Baskerville', 'Georgia', 'Times New Roman', serif;
+      font-weight: 700;
+      font-size: 58px;
+      letter-spacing: 2px;
+      fill: url(#gold-leaf);
+      animation: gold-drift 6s ease-in-out infinite;
+    }
+    .latin-badge {
+      font-family: 'Cinzel', 'EB Garamond', 'Georgia', serif;
+      font-weight: 600;
+      font-size: 11px;
+      letter-spacing: 4px;
+      fill: #d4af37;
+      opacity: 0.9;
+    }
+    .tagline-script {
+      font-family: 'Baskerville', 'EB Garamond', 'Georgia', 'Times New Roman', serif;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 18.5px;
+      letter-spacing: 0.8px;
+      fill: #e6dfd5;
+      opacity: 0.92;
+    }
+    .academic-mono {
+      font-family: 'EB Garamond', 'Georgia', serif;
+      font-size: 11px;
+      letter-spacing: 2px;
+      fill: #a39580;
+    }
+  </style>
+
+  <g clip-path="url(#frame-clip)">
+    <!-- Deep Mahogany / Charcoal Base -->
+    <rect width="1000" height="280" fill="url(#academia-canvas)" />
+
+    <!-- Ambient Warm Library Lamp Glow -->
+    <g filter="url(#lamp-glow)">
+      <!-- Left Amber Desk Lamp Light -->
+      <circle class="candle-1" cx="220" cy="140" r="160" fill="#d97706" />
+      <circle class="candle-1" cx="150" cy="110" r="110" fill="#f59e0b" opacity="0.4" />
+      <!-- Right Brass Lamp Glow -->
+      <circle class="candle-2" cx="780" cy="140" r="170" fill="#b45309" />
+      <circle class="candle-2" cx="850" cy="160" r="110" fill="#d97706" opacity="0.35" />
+    </g>
+
+    <!-- Faint Mathematical & Connectome Watermark in Background -->
+    <g opacity="0.10" stroke="#d4af37" fill="none" stroke-width="0.8">
+      <!-- Synaptic connectome graph nodes -->
+      <circle cx="160" cy="80" r="3" fill="#d4af37" />
+      <circle cx="210" cy="60" r="2.5" fill="#d4af37" />
+      <circle cx="260" cy="95" r="3" fill="#d4af37" />
+      <circle cx="220" cy="130" r="2" fill="#d4af37" />
+      <line x1="160" y1="80" x2="210" y2="60" />
+      <line x1="210" y1="60" x2="260" y2="95" />
+      <line x1="260" y1="95" x2="220" y2="130" />
+      <line x1="160" y1="80" x2="220" y2="130" />
+
+      <!-- Celestial / Geometric Compass Circle -->
+      <circle cx="820" cy="140" r="75" stroke-dasharray="3,3" />
+      <circle cx="820" cy="140" r="45" />
+      <line x1="730" y1="140" x2="910" y2="140" />
+      <line x1="820" y1="50" x2="820" y2="230" />
+    </g>
+
+    <!-- Subtle Dot Mesh -->
+    <rect width="1000" height="280" fill="url(#parchment-mesh)" />
+
+    <!-- Scholar Double Hairline Gold Border -->
+    <rect x="14" y="14" width="972" height="252" rx="4" fill="none" stroke="#d4af37" stroke-width="0.75" stroke-opacity="0.45" />
+    <rect x="18" y="18" width="964" height="244" rx="2" fill="none" stroke="#d4af37" stroke-width="1.2" stroke-opacity="0.8" />
+
+    <!-- Classical Flourish Corner Brackets -->
+    <g stroke="#d4af37" stroke-width="1.2" fill="none" opacity="0.85">
+      <!-- Top Left -->
+      <path d="M 24 38 L 24 24 L 38 24" />
+      <circle cx="42" cy="42" r="1.5" fill="#d4af37" />
+      <!-- Top Right -->
+      <path d="M 976 38 L 976 24 L 962 24" />
+      <circle cx="958" cy="42" r="1.5" fill="#d4af37" />
+      <!-- Bottom Left -->
+      <path d="M 24 242 L 24 256 L 38 256" />
+      <circle cx="42" cy="238" r="1.5" fill="#d4af37" />
+      <!-- Bottom Right -->
+      <path d="M 976 242 L 976 256 L 962 256" />
+      <circle cx="958" cy="238" r="1.5" fill="#d4af37" />
+    </g>
+
+    <!-- Top Monograph Inscription -->
+    <g transform="translate(500, 48)">
+      <line x1="-190" y1="-4" x2="-130" y2="-4" stroke="#d4af37" stroke-width="0.75" opacity="0.6" />
+      <text class="latin-badge" x="0" y="0" text-anchor="middle">DISCIPLINA • RATIO • INVENTIO</text>
+      <line x1="130" y1="-4" x2="190" y2="-4" stroke="#d4af37" stroke-width="0.75" opacity="0.6" />
+    </g>
+
+    <!-- Main Title: ayuuXploits in Classical Academic Typography -->
+    <text class="gold-title" x="500" y="142" text-anchor="middle">ayuuXploits</text>
+
+    <!-- Academic Tagline in Classic Italic Serif -->
+    <text class="tagline-script" x="500" y="186" text-anchor="middle">"Hacking silicon, exploring brains and bending pixels"</text>
+
+    <!-- Bottom Ornament & Academic Folio Mark -->
+    <g transform="translate(500, 228)">
+      <line x1="-240" y1="0" x2="-20" y2="0" stroke="url(#gold-rule)" stroke-width="1" />
+      <!-- Center Gold Diamond Ornament -->
+      <polygon points="0,-4 5,0 0,4 -5,0" fill="#fef08a" stroke="#d4af37" stroke-width="0.75" />
+      <line x1="20" y1="0" x2="240" y2="0" stroke="url(#gold-rule)" stroke-width="1" />
+      <text class="academic-mono" x="0" y="18" text-anchor="middle">COMPUTATIONAL NEUROSCIENCE &amp; SILICON SYSTEMS</text>
+    </g>
+  </g>
+</svg>
