@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayuuXploits/ayuuXploits/main/assets/header.svg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/ayuuXploits/ayuuXploits/main/assests/header.svg" width="100%" alt="Header Banner" />
 </p>
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
 <h3 align="center">Creative Technologist • Embedded Systems & IoT • AI & Connectomics</h3>
 
@@ -75,22 +76,45 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayuuXploits/ayuuXploits/output/github-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ayuuXploits/ayuuXploits/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### ⚡ Live Feed
 
-#### 👷 Recent Contributions
-- [ayuuXploits/fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - Play 3D chess against a fruit fly powered by a biological brain connectome GNN & Stockfish.
-- [ayuuXploits/GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi sniffing with ESP32 to detect ambient devices and estimate distance in real time.
-- [ayuuXploits/study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study companion with intelligent summaries, quizzes, and streak tracking.
-- [ayuuXploits/artscii-cam](https://github.com/ayuuXploits/artscii-cam) - Real-time ASCII art camera and image converter running in browser.
-- [ayuuXploits/DIY-emo-bot](https://github.com/ayuuXploits/DIY-emo-bot) - Interactive desk companion robot on Wemos D1 Mini (ESP8266) with OLED display.
+<details>
+  <summary><b>📜 Click to view live activity feed</b></summary>
+  <br/>
 
-#### 🔭 Recent Repositories
-- [fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - 3D chess vs biological connectome GNN & Stockfish
-- [GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi radar & tracking with ESP32
-- [study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study platform
-- [air-canvas](https://github.com/ayuuXploits/air-canvas) - Bare-hand touchless webcam drawing tool
+  <details open>
+    <summary><b>👷 Recent Contributions</b></summary>
+    <br/>
+
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}](<{{ .Repo.URL }}>) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+{{- end }}
+
+  </details>
+
+  <br/>
+
+  <details open>
+    <summary><b>🔭 Recent Repositories</b></summary>
+    <br/>
+
+{{ range recentRepos 4 }}
+- [{{ .Name }}](<{{ .URL }}>){{ with .Description }} - {{ . }}{{ end }}
+{{- end }}
+
+  </details>
+
+</details>
 
 ---
 
