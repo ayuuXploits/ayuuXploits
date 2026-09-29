@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayuuXploits/ayuuXploits/main/assests/header.svg" width="100%" alt="Header Banner" />
+  <img src="./assests/header.svg" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
@@ -59,16 +59,14 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ayuuXploits&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=00000000">
-    <img align="left" width="48%" src="https://github-stats-extended.vercel.app/api?username=ayuuXploits&show_icons=true&hide_border=true&include_all_commits=true&theme=default&bg_color=00000000" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ayuuXploits&show_icons=true&hide_border=true&include_all_commits=true&theme=default&bg_color=00000000" alt="GitHub Stats" height="190" />
   </picture>
+  &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ayuuXploits&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000">
-    <img align="right" width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayuuXploits&layout=compact&hide_border=true&langs_count=8&theme=default&bg_color=00000000" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayuuXploits&layout=compact&hide_border=true&langs_count=8&theme=default&bg_color=00000000" alt="Top Languages" height="190" />
   </picture>
 </p>
-
-<br clear="both"/>
-<br />
 
 <p align="center">
   <picture>
@@ -96,9 +94,11 @@
     <summary><b>👷 Recent Contributions</b></summary>
     <br/>
 
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}](<{{ .Repo.URL }}>) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
-{{- end }}
+- [ayuuXploits/fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - Play 3D chess against a fruit fly powered by a biological brain connectome GNN & Stockfish.
+- [ayuuXploits/GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi sniffing with ESP32 to detect ambient devices and estimate distance in real time.
+- [ayuuXploits/study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study companion with intelligent summaries, quizzes, and streak tracking.
+- [ayuuXploits/artscii-cam](https://github.com/ayuuXploits/artscii-cam) - Real-time ASCII art camera and image converter running in browser.
+- [ayuuXploits/DIY-emo-bot](https://github.com/ayuuXploits/DIY-emo-bot) - Interactive desk companion robot on Wemos D1 Mini (ESP8266) with OLED display.
 
   </details>
 
@@ -108,9 +108,10 @@
     <summary><b>🔭 Recent Repositories</b></summary>
     <br/>
 
-{{ range recentRepos 4 }}
-- [{{ .Name }}](<{{ .URL }}>){{ with .Description }} - {{ . }}{{ end }}
-{{- end }}
+- [fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - 3D chess vs biological connectome GNN & Stockfish
+- [GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi radar & tracking with ESP32
+- [study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study platform
+- [air-canvas](https://github.com/ayuuXploits/air-canvas) - Bare-hand touchless webcam drawing tool
 
   </details>
 
