@@ -70,8 +70,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=tokyonight&hide_border=true&background=00000000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=tokyonight&hide_border=true&background=00000000&v=2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000&v=2" alt="GitHub Streak" />
   </picture>
 </p>
 
