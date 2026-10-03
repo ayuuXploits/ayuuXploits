@@ -17,7 +17,7 @@
 ---
 
 > [!NOTE]
-> 🚀 **About Me:** Computer Applications graduate driven by curiosity at the intersection of **hardware hacking**, **biological brain connectomics**, and **interactive visual computing**. Whether it's passively sniffing Wi-Fi packets on bare silicon, training graph neural networks on fruit fly connectomes, or building touchless vision interfaces, I build projects that bridge the physical and algorithmic worlds.
+> 🚀 **About Me:** Computer science graduate driven by curiosity at the intersection of **hardware hacking**, **biological brain connectomics**, and **interactive visual computing**. Whether it's passively sniffing Wi-Fi packets on bare silicon, training graph neural networks on fruit fly connectomes, or building touchless vision interfaces, I build projects that bridge the physical and algorithmic worlds.
 
 
 <br />
