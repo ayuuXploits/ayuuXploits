@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
 <h3 align="center">Creative Technologist • Embedded Systems & IoT • AI & Connectomics</h3>
 
@@ -50,18 +48,6 @@
 
 ---
 ### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ayuuXploits&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=00000000">
-    <img src="https://github-stats-extended.vercel.app/api?username=ayuuXploits&show_icons=true&hide_border=true&include_all_commits=true&theme=default&bg_color=00000000" alt="GitHub Stats" height="190" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ayuuXploits&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayuuXploits&layout=compact&hide_border=true&langs_count=8&theme=default&bg_color=00000000" alt="Top Languages" height="190" />
-  </picture>
-</p>
 
 <p align="center">
   <picture>
