@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assests/header.svg" width="100%" alt="Header Banner" />
-</p>
+
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
 <h3 align="center">Creative Technologist • Embedded Systems & IoT • AI & Connectomics</h3>
