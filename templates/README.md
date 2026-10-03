@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assests/header.svg" width="100%" alt="Header Banner" />
-</p>
+
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/ayuuXploits">Ayush Kumar</a> 👋</h1>
 <h3 align="center">Creative Technologist • Embedded Systems & IoT • AI & Connectomics</h3>
@@ -23,9 +21,6 @@
 > [!NOTE]
 > 🚀 **About Me:** Computer Applications graduate driven by curiosity at the intersection of **hardware hacking**, **biological brain connectomics**, and **interactive visual computing**. Whether it's passively sniffing Wi-Fi packets on bare silicon, training graph neural networks on fruit fly connectomes, or building touchless vision interfaces, I build projects that bridge the physical and algorithmic worlds.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding" width="100%" />
-</p>
 
 <br />
 
