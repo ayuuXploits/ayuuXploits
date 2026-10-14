@@ -17,7 +17,7 @@
 ---
 
 > [!NOTE]
-> 🚀 **About Me:** Computer science graduate driven by curiosity at the intersection of **hardware hacking**, **biological brain connectomics**, and **interactive visual computing**. Whether it's passively sniffing Wi-Fi packets on bare silicon, training graph neural networks on fruit fly connectomes, or building touchless vision interfaces, I build projects that bridge the physical and algorithmic worlds.
+> 🚀 **About Me:** Computer Applications graduate driven by curiosity at the intersection of **hardware hacking**, **biological brain connectomics**, and **interactive visual computing**. Whether it's passively sniffing Wi-Fi packets on bare silicon, training graph neural networks on fruit fly connectomes, or building touchless vision interfaces, I build projects that bridge the physical and algorithmic worlds.
 
 
 <br />
@@ -67,32 +67,35 @@
 
 ### ⚡ Live Feed
 
-<details>
-  <summary><b>📜 Click to view live activity feed</b></summary>
+<details open>
+  <summary><b>📜 Click to view live activity feed & flagships</b></summary>
   <br/>
 
   <details open>
-    <summary><b>👷 Recent Contributions</b></summary>
+    <summary><b>🚀 Flagship Projects & Recent Work</b></summary>
     <br/>
 
-- [ayuuXploits/fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - Play 3D chess against a fruit fly powered by a biological brain connectome GNN & Stockfish.
-- [ayuuXploits/GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi sniffing with ESP32 to detect ambient devices and estimate distance in real time.
-- [ayuuXploits/study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study companion with intelligent summaries, quizzes, and streak tracking.
-- [ayuuXploits/artscii-cam](https://github.com/ayuuXploits/artscii-cam) - Real-time ASCII art camera and image converter running in browser.
-- [ayuuXploits/DIY-emo-bot](https://github.com/ayuuXploits/DIY-emo-bot) - Interactive desk companion robot on Wemos D1 Mini (ESP8266) with OLED display.
+- [HANDSPEAK](https://github.com/ayuuXploits/HANDSPEAK) - Real-time sign language interpreter translating live hand gestures directly into text.
+- [fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - Play 3D chess against a fruit fly powered by a biological brain connectome GNN & Stockfish.
+- [GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi radar & tracking with ESP32 to map surrounding ambient devices in real time.
+- [VITATRACK](https://github.com/ayuuXploits/VITATRACK) - Production-grade full-stack wellness and intelligent health ecosystem.
+- [study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study companion with intelligent summaries, quizzes, and streak tracking.
+- [stellar-hands](https://github.com/ayuuXploits/stellar-hands) - Interactive 500,000 particle simulation controlled by bare-hand webcam gestures across 10 cosmic formations.
+- [artscii-cam](https://github.com/ayuuXploits/artscii-cam) - Real-time ASCII art camera and image converter running entirely in-browser.
+- [DIY-emo-bot](https://github.com/ayuuXploits/DIY-emo-bot) - Interactive desk companion robot on Wemos D1 Mini (ESP8266) with OLED display.
 
   </details>
 
   <br/>
 
   <details open>
-    <summary><b>🔭 Recent Repositories</b></summary>
+    <summary><b>🔭 Interactive Vision & Hardware Repositories</b></summary>
     <br/>
 
-- [fruitfly-chess](https://github.com/ayuuXploits/fruitfly-chess) - 3D chess vs biological connectome GNN & Stockfish
-- [GhostNet_Sniffer](https://github.com/ayuuXploits/GhostNet_Sniffer) - Passive Wi-Fi radar & tracking with ESP32
-- [study-buddy](https://github.com/ayuuXploits/study-buddy) - AI-powered study platform
-- [air-canvas](https://github.com/ayuuXploits/air-canvas) - Bare-hand touchless webcam drawing tool
+- [Fruit-ninja-AR](https://github.com/ayuuXploits/Fruit-ninja-AR) - Browser-based Fruit Ninja clone controlled entirely by hand tracking mid-air.
+- [air-canvas](https://github.com/ayuuXploits/air-canvas) - Bare-hand touchless webcam drawing and sketching tool.
+- [Declassified-archive](https://github.com/ayuuXploits/Declassified-archive) - Live intelligence archive of declassified operations and FOIA releases.
+- [RFID-Relay-Control-System](https://github.com/ayuuXploits/RFID-Relay-Control-System) - Hardware access control and relay management system.
 
   </details>
 
