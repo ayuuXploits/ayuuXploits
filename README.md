@@ -51,8 +51,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ayuuXploits&theme=tokyonight&hide_border=true&background=00000000&cache_seconds=1800&v=final184">
-    <img src="https://streak-stats.demolab.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000&cache_seconds=1800&v=final184" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ayuuXploits&theme=tokyonight&hide_border=true&background=00000000&cache_seconds=1800&v=streak_fixed_oct20">
+    <img src="https://streak-stats.demolab.com/?user=ayuuXploits&theme=default&hide_border=true&background=00000000&cache_seconds=1800&v=streak_fixed_oct20" alt="GitHub Streak" />
   </picture>
 </p>
 
